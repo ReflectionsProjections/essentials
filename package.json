@@ -1,0 +1,44 @@
+{
+  "name": "rp-essentials",
+  "publisher": "SohamKulkarni",
+  "displayName": "rp-essentials",
+  "description": "Essential & helpful extensions to work on RP Infrastructure",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/ReflectionsProjections/essentials"
+  },
+  "icon": "favicon.png",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bradlc.vscode-tailwindcss", 
+    "BriteSnow.vscode-toggle-quotes", 
+    "Catppuccin.catppuccin-vsc", 
+    "christian-kohler.npm-intellisense", 
+    "christian-kohler.path-intellisense", 
+    "cschlosser.doxdocgen", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "github.vscode-github-actions", 
+    "Gruntfuggly.todo-tree", 
+    "helixquar.randomeverything", 
+    "icrawl.discord-vscode", 
+    "jasonnutter.search-node-modules", 
+    "kisstkondoros.vscode-gutter-preview", 
+    "mikestead.dotenv", 
+    "mongodb.mongodb-vscode", 
+    "ms-playwright.playwright", 
+    "PKief.material-icon-theme", 
+    "redhat.vscode-xml", 
+    "redhat.vscode-yaml", 
+    "svelte.svelte-vscode", 
+    "usernamehw.errorlens", 
+    "xabikos.JavaScriptSnippets", 
+    "yoavbls.pretty-ts-errors"
+  ]
+}
